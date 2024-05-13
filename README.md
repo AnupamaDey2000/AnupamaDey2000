@@ -1,4 +1,4 @@
-[[!MasterHead(chill.gif)]
+<img  alt="chill"  src="chill.gif"/>
 <h1 align="center">Hi 👋, I'm Anupama Dey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="code" width="600px" src="logo.gif"/>
