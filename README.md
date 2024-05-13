@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Anupama Dey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" all="code" src="logo.gif"/>
+<img align="right" alt="code" width="400px" src="logo.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupamadey2000&label=Profile%20views&color=0e75b6&style=flat" alt="anupamadey2000" /> </p>
 
 
