@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupamadey2000&label=Profile%20views&color=0e75b6&style=flat" alt="anupamadey2000" /> </p>
 
 
-- 🌱 I’m currently learning **React Naive**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **deyanupama18@gmail.com**
 
@@ -13,7 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/anupama_dey_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anupama_dey_" height="30" width="40" /></a>
+  <script src="https://kit.fontawesome.com/8a669a576a.js" crossorigin="anonymous"></script>
+<a href="https://twitter.com/anupama_dey_" target="blank"><i class="fa-brands fa-square-x-twitter"></i></a>
 <a href="https://linkedin.com/in/anupama dey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anupama dey" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/anupama_dey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="anupama_dey" height="30" width="40" /></a>
 <a href="https://kaggle.com/anupamadey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anupamadey" height="30" width="40" /></a>
