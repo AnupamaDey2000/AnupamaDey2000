@@ -1,11 +1,9 @@
 <img  alt="chill"  src="chill.gif"/>
-<h1 align="center">Hi 👋, I'm Anupama Dey</h1>
+<h1 align="center" style="background-color:SlateBlue;">Hi 👋, I'm Anupama Dey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="code" width="600px" src="logo.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupamadey2000&label=Profile%20views&color=0e75b6&style=flat" alt="anupamadey2000" /> </p>
 
-
-<p align="left"> <a href="https://twitter.com/anupama_dey_" target="blank"><img src="https://img.shields.io/twitter/follow/anupama_dey_?logo=twitter&style=for-the-badge" alt="anupama_dey_" /></a> </p>
 
 - 🌱 I’m currently learning **React Naive**
 
