@@ -1,6 +1,9 @@
 <img  alt="chill"  src="chill.gif"/>
-<h1 align="center" style="text-color::#0013a3;">Hi 👋, I'm Anupama Dey</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# 👋 Hi, I'm ANUPAMA!
+👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
+👩🏻‍🎓 Studied Computer Science And Engineering<br/>
+
+
 <img align="right" alt="code" width="600px" src="logo.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupamadey2000&label=Profile%20views&color=0e75b6&style=flat" alt="anupamadey2000" /> </p>
 
