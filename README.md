@@ -1,5 +1,8 @@
 <img  alt="chill"  src="chill.gif"/>
-# 👋 Hi, I'm ANUPAMA!
+
+# <em><b>👋 Hi, I'm ANUPAMA!</em><b>
+<hr>
+
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studied Computer Science And Engineering<br/>
 
