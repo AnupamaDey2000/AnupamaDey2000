@@ -7,7 +7,7 @@
 👩🏻‍🎓 Studied Computer Science And Engineering<br/>
 
 
-<img align="right" alt="code" width="600px" src="logo.gif"/>
+<img align="right" alt="code" width="300px" src="logo.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupamadey2000&label=Profile%20views&color=0e75b6&style=flat" alt="anupamadey2000" /> </p>
 
 
