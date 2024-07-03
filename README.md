@@ -2,12 +2,12 @@
 
 # <b>👋 Hi, I'm ANUPAMA!</b>
 
-
+<img align="right" alt="code" width="400px" src="logo.gif"/>
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studied Computer Science And Engineering<br/>
 
 
-<img align="right" alt="code" width="400px" src="logo.gif"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupamadey2000&label=Profile%20views&color=0e75b6&style=flat" alt="anupamadey2000" /> </p>
 
 
