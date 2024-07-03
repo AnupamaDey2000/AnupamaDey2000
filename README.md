@@ -2,7 +2,7 @@
 
 # <b>👋 Hi, I'm ANUPAMA!</b>
 
-<img align="right" alt="code" width="500px" src="logo.gif"/>
+<img align="right" alt="code" width="450px" src="logo.gif"/>
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studied Computer Science And Engineering<br/>
 
